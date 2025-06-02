@@ -1,0 +1,30 @@
+[
+  {
+    "Nama": "Syafrida Yanna",
+    "Umur": 21,
+    "Nim": "2217020121",
+    "Lulus": true,
+    "Hobi": [
+      "Membaca",
+      "Coding"
+    ],
+    "Pembimbing": {
+      "Pembimbing1": "Doddy Ferdiansyah",
+      "Pembimbing2": " Erik Syahputra"
+    }
+  },
+  {
+    "Nama": "Syafrida Yanna",
+    "Umur": 21,
+    "Nim": "2217020121",
+    "Lulus": true,
+    "Hobi": [
+      "Membaca",
+      "Coding"
+    ],
+    "Pembimbing": {
+      "Pembimbing1": "Doddy Ferdiansyah",
+      "Pembimbing2": " Erik Syahputra"
+    }
+  }
+]
